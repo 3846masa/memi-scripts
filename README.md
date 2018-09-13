@@ -20,6 +20,11 @@ echo "export * from './.memi/scripts';" >> ~/.memifile.js
 memi gitignore ...<type>
 ```
 
+```bash
+# Fetch LICENSE from https://mit-license.org/
+memi license [<username>]
+```
+
 ## LICENSE
 
 the MIT License (c) 3846masa
