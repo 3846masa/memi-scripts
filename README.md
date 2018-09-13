@@ -17,7 +17,7 @@ echo "export * from './.memi/scripts';" >> ~/.memifile.js
 
 ```bash
 # Fetch gitignore from https://www.gitignore.io/
-memi gitignore ...<type>
+memi gitignore <type>...
 ```
 
 ```bash
