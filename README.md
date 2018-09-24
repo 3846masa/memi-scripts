@@ -25,6 +25,11 @@ memi gitignore <type>...
 memi license [<username>]
 ```
 
+```bash
+# Repl which allows await
+memi repl
+```
+
 ## LICENSE
 
 the MIT License (c) 3846masa
